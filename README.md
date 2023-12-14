@@ -1,16 +1,19 @@
 # UrbanSound8k-MelSpectrogram 🌆🔊
 
 ## About 📚
-This repository explores urban sound research using the UrbanSound8k dataset. Dive into sound analysis with our Jupyter Notebook! 📈🎵
+This repository contains code used to create the "UrbanSound8k Mel Spectrogram Images" dataset on Kaggle, offering visual representations of urban sounds. 🖼️🎵
 
 ### Features 🌟
-- **Sound Visualization**: Convert audio to spectrograms! 🎶➡️📊
-- **Research-Based**: Based on the work of J. Salamon, C. Jacoby, and J. P. Bello. 🎓
-- **Tech Stack**: Primarily Jupyter Notebook. 🛠️
+- **Sound Visualization**: Transform audio files into mel spectrogram images! 🎶➡️📊
+- **Dataset Creation**: Used to generate a Kaggle dataset for sound analysis. 📊🔬
+- **Research-Based**: Inspired by the work of J. Salamon, C. Jacoby, and J. P. Bello. 🎓
+
+### Kaggle Dataset 📈
+- Explore the [UrbanSound8k Mel Spectrogram Images](https://www.kaggle.com/datasets/pranked03/urbansound8k-mel-spectrogram-images/data) on Kaggle!
 
 ### Getting Started 🚀
 1. Clone the repo.
-2. Explore `Audio-to-Spectrogram.ipynb` for audio to melspectrogram conversion.
+2. Utilize `Audio-to-Spectrogram.ipynb` to create spectrogram images.
 
 ### License 📜
 This project is MIT licensed. Feel free to use and contribute!
